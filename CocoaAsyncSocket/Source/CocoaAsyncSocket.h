@@ -16,5 +16,3 @@ FOUNDATION_EXPORT const unsigned char cocoaAsyncSocketVersionString[];
 
 #import <CocoaAsyncSocket/GCDAsyncSocket.h>
 #import <CocoaAsyncSocket/GCDAsyncUdpSocket.h>
-
-AAAA
